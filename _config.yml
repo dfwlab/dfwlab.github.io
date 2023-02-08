@@ -49,7 +49,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dfw_bioinfo@126.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: Wu Dingfeng
   github: dfwlab
   twitter: dfw_biolab
@@ -87,11 +87,12 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   email: true
-  telephone: true
+  ORCID: true
+  github: true
   facebook: true
   twitter: true
-  github: true
-  ORCID: true
+  telephone: true
+  
   
 
 # How to display the link to your website in the footer
