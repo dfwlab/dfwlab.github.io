@@ -21,9 +21,13 @@ author: Dingfeng Wu
 
 navbar-links:
   HOME: "index"
-  NEWS: "#"
-  PUBLICATIONS: "#"
-  ABOUT: "aboutme"
+  NEWS: "news"
+  RESEARCH: "research"
+  PEOPLE: "people"
+  SOFTWARE: "software"
+  PUBLICATIONS: "publications"
+  CAREERS: "careers"
+  CONTACT: "aboutme"
 
 ################
 # --- Logo --- #
