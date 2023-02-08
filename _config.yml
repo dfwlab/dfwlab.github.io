@@ -10,20 +10,20 @@
 ############################
 
 # Name of website
-title: My Website
+title: Wu Lab
 
 # Your name to show in the footer
-author: Some Person
+author: Dingfeng Wu
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  HOME: "https://dfwlab.github.io/"
+  NEWS: "#"
+  PUBLICATIONS: "#"
+  ABOUT: "#"
   Author's home: "https://deanattali.com"
 
 ################
