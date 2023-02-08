@@ -101,10 +101,10 @@ url-pretty: "dfwlab.github.io"
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: true
@@ -126,9 +126,9 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1e50a2"
+navbar-col: "#19448e"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#1e50a2"
+navbar-border-col: "#19448e"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
