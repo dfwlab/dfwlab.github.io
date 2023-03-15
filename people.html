@@ -13,26 +13,124 @@ language: utf8
     </div>
 </div>
 
-
 <div class="container-lg">
-    <div class="row"  style="margin-top: 3rem">
-        <div class="col-lg-4">
-            <div class="text-center"><img alt="Human microbiome" class="rounded-circle shadow" src="/assets/img/people/dingfengwu.png" width="200px"></div>
-            <h2 class="text-center">Dingfeng Wu</h2>
-            <p class="text-center">Principle Investigator</p>
-            <p class="text-center" style="margin-bottom: 1rem"> <a class="btn btn-primary" href="#" role="button">More about our research »</a> </p>
-        </div>
-        <div class="col-lg-4">
-            <div class="text-center"><img alt="Human microbiome" class="rounded-circle shadow" src="/assets/img/thumb.png" width="200px"></div>
-            <h2 class="text-center">Suqi Cao</h2>
-            <p class="text-center">Assistant</p>
-            <p class="text-center" style="margin-bottom: 1rem"> <a class="btn btn-primary" href="#" role="button">More about our research »</a> </p>
-        </div>
-        <div class="col-lg-4">
-            <div class="text-center"><img alt="Human microbiome" class="rounded-circle shadow" src="/assets/img/thumb.png" width="200px"></div>
-            <h2 class="text-center">Liu Yang</h2>
-            <p class="text-center">Assistant</p>
-            <p class="text-center" style="margin-bottom: 1rem"> <a class="btn btn-primary" href="#" role="button">More about our research »</a> </p>
+    <div class="row">
+        <div class="col-lg-12">
+            <h3>Principle Investigator</h3>
         </div>
     </div>
 </div>
+
+<div class="container-lg">
+    <div class="row"  style="margin-top: 2rem; ">
+    {% for people in site.people %}
+        {% if people.position == "Principle Investigator" %}
+            <div class="col-lg-4">
+                <a class="text-primary" href="{{ people.url }}">
+                    <div class="text-center">
+                        <img alt="{{ people.title }}" class="rounded-circle shadow" src="/assets/img{{ people.image }}" width="200px" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1;">
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-8">
+                <h2 style="margin-top:0"><a href="{{ people.url }}" style="color: black;">{{ people.title }}</a> <small>{{ people.degree }}</small></h2>
+                <p style="margin: 0 0;"><span><a href="mailto:{{ people.email }}"><i class="fas fa-envelope"></i> {{ people.email }}</a></span>
+                    <span>
+                        {% if people.webside %}
+                        <span>&nbsp;&nbsp;<a href="{{ people.webside }}"><i class="fas fa-globe"></i></a></span>
+                        {% endif %}
+                        {% if people.google_scholar %}
+                        <span>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user={{ people.google_scholar }}"><i class="fas fa-graduation-cap"></i></a></span>
+                        {% endif %}
+                        {% if people.github %}
+                        <span>&nbsp;&nbsp;<a href="{{ people.github }}"><i class="fab fa-github"></i></a></span>
+                        {% endif %}
+                    </span>
+                </p>
+                <p class='text-justify' style="margin: 1rem 0;">{{ people.introduce }}</p>
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+</div>
+
+<div class="container-lg">
+    <div class="row">
+        <div class="col-lg-12">
+            <h3>Assistant</h3>
+        </div>
+    </div>
+</div>
+
+<div class="container-lg">
+    <div class="row"  style="margin-top: 3rem">
+    {% for people in site.people %}
+        {% if people.position == "Assistant" %}
+            <div class="col-lg-4">
+                <div class="text-center">
+                    <a class="text-primary" href="{{ people.url }}">
+                        <div class="text-center">
+                            <img alt="{{ people.title }}" class="rounded-circle shadow" src="/assets/img{{ people.image }}" width="200px" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1;">
+                        </div>
+                    </a>
+                </div>
+                <h2 class="text-center"><a href="{{ people.url }}" style="color: black;">{{ people.title }}</a> <small>{{ people.degree }}</small></h2>
+                <p class="text-center" style="margin-top: 1em;"><span><a href="mailto:{{ people.email }}"><i class="fas fa-envelope"></i> {{ people.email }}</a></span></p> 
+                <p class="text-center" style="margin-top: -1em;">
+                    {% if people.webside %}
+                    <span><a href="{{ people.webside }}"><i class="fas fa-globe"></i></a></span>
+                    {% endif %}
+                    {% if people.google_scholar %}
+                    <span><a href="https://scholar.google.com/citations?user={{ people.google_scholar }}"><i class="fas fa-graduation-cap"></i></a></span>
+                    {% endif %}
+                    {% if people.github %}
+                    <span><a href="{{ people.github }}"><i class="fab fa-github"></i></a></span>
+                    {% endif %}
+                </p> 
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+</div>
+
+
+<div class="container-lg">
+    <div class="row" style="margin-top: 3em;">
+        <div class="col-lg-12">
+            <h3>Collaborating Students</h3>
+        </div>
+    </div>
+</div>
+
+<div class="container-lg">
+    <div class="row"  style="margin-top: 3rem">
+    {% for people in site.people %}
+        {% if people.position == "Collaborating Students" %}
+            <div class="col-lg-4">
+                <div class="text-center">
+                    <a class="text-primary" href="{{ people.url }}">
+                        <div class="text-center">
+                            <img alt="{{ people.title }}" class="rounded-circle shadow" src="/assets/img{{ people.image }}" width="200px" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1;">
+                        </div>
+                    </a>
+                </div>
+                <h2 class="text-center"><a href="{{ people.url }}" style="color: black;">{{ people.title }}</a> <small>{{ people.degree }}</small></h2>
+                <p class="text-center" style="margin-top: 1em;"><span><a href="mailto:{{ people.email }}"><i class="fas fa-envelope"></i> {{ people.email }}</a></span></p> 
+                <p class="text-center" style="margin-top: -1em;">
+                    {% if people.webside %}
+                    <span><a href="{{ people.webside }}"><i class="fas fa-globe"></i></a></span>
+                    {% endif %}
+                    {% if people.google_scholar %}
+                    <span><a href="https://scholar.google.com/citations?user={{ people.google_scholar }}"><i class="fas fa-graduation-cap"></i></a></span>
+                    {% endif %}
+                    {% if people.github %}
+                    <span><a href="{{ people.github }}"><i class="fab fa-github"></i></a></span>
+                    {% endif %}
+                </p> 
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+</div>
+
+

@@ -22,12 +22,11 @@ author: Dingfeng Wu
 navbar-links:
   HOME: "index"
   NEWS: "news"
-  RESEARCH: "research"
   PEOPLE: "people"
   SOFTWARE: "software"
   PUBLICATIONS: "publications"
   CAREERS: "careers"
-  CONTACT: "aboutme"
+  CONTACT: "contact"
 
 ################
 # --- Logo --- #
@@ -296,4 +295,9 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+collections:
+  people:
+    output: true
+    #permalink: /:people/ 
 
