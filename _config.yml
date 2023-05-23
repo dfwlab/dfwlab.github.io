@@ -300,4 +300,3 @@ collections:
   people:
     output: true
     #permalink: /:people/ 
-

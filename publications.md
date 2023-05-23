@@ -19,7 +19,11 @@ p {
 
 ## 2023
 
-1. Lei Liu<sup>†</sup>, Ruixin Zhu,and **Dingfeng Wu**<sup>\*</sup>. Misuse of reporter score in microbial enrichment analysis. **iMeta**. **2023**; e95.https://doi.org/10.1002/imt2.95
+1. Tingjun Xu<sup>†</sup>, Wenxing Gao<sup>†</sup>, Lixin Zhu<sup>\*</sup>, Wanning Chen, Chaoqun Niu, Wenjing Yin, Liangxiao Ma, Xinyue Zhu, Yunchao Ling, Sheng Gao, Lei Liu, Na Jiao, Weiming Chen, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, and **Dingfeng Wu**<sup>\*</sup>. NAFLDkb: A Knowledge Base and Platform for Drug Development against Nonalcoholic Fatty Liver Disease. **J. Chem. Inf. Model**. **2023**; https://pubs.acs.org/doi/10.1021/acs.jcim.3c00395
+
+1. Wenjun Gu<sup>†</sup>, LuChengChen Shu, WanNing Chen, Jinhua Wang, **Dingfeng Wu**<sup>\*</sup>, ZiSheng Ai<sup>\*</sup>, and Jiyu Li<sup>\*</sup>. Evaluation of Chinese Healthcare Organizations Innovative Performance in the Digital Health Era. **Front. Public Health**. **2023**; https://www.frontiersin.org/articles/10.3389/fpubh.2023.1141757
+
+1. Lei Liu<sup>†</sup>, Ruixin Zhu,and **Dingfeng Wu**<sup>\*</sup>. Misuse of reporter score in microbial enrichment analysis. **iMeta**. **2023**; e95. https://doi.org/10.1002/imt2.95
 
 
 ## 2022
