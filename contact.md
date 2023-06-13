@@ -12,7 +12,7 @@ p {
     <div class="row">
         <div class="col-lg-12">
             <h1>Contact</h1>
-            <img alt="DFWLab" src="/assets/img/DFlab-cycle.png"/></a>
+            <img alt="DFWLab" src="/assets/img/DFlab-cycle.png"/>
             <hr/>
         </div>
     </div>
