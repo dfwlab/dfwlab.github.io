@@ -4,7 +4,7 @@ title: Zelai Chen
 position: Assistant
 image: /people/zelaichen.png
 degree: B.S.
-email: xxx@xxx.com
+email: lg837jm@sina.com
 webside: https://dfwlab.github.io/
 ---
 
