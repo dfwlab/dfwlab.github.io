@@ -40,7 +40,7 @@ p {
 
 ### Databases
 
-* **[CPKB](http://121.5.165.69/)** Cyclic Peptide Knowledge Base
+* **[CyclicPepedia](https://www.biosino.org/iMAC/cyclicpepedia/)** Cyclic Peptide Knowledge Base
 
 
 
