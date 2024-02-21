@@ -57,11 +57,19 @@ p {
 
 **Publications**
 
-1. Lei Liu<sup>†</sup>, Ruixin Zhu,and **Dingfeng Wu**<sup>\*</sup>. Misuse of reporter score in microbial enrichment analysis. **iMeta**. **2023**; e95.https://doi.org/10.1002/imt2.95
+1. Xiaoyi Li<sup>†</sup>, **Dingfeng Wu**<sup>†</sup>, Qiuyu Li, Jinglan Gu, Wenxing Gao, Xinyue Zhu, Wenjing Yin, Ruixin Zhu<sup>\*</sup>, Lixin Zhu<sup>\*</sup>, and Na Jiao<sup>\*</sup>. Host-microbiota interactions contributing to the heterogeneous tumor microenvironment in colorectal cancer. **Physiol Genomics**. **2024** Feb 1;56(2):221-234. doi: 10.1152/physiolgenomics.00103.2023. Epub 2023 Dec 11. PMID: 38073489.
 
-1. **Dingfeng Wu**<sup>†</sup>, Lei Liu<sup>†</sup>, Na Jiao<sup>†</sup>, Yida Zhang, Li Yang, Chuan Tian, Ping Lan, Lixin Zhu<sup>\*</sup>, Rohit Loomba<sup>\*</sup>, and Ruixin Zhu<sup>\*</sup>. Targeting Keystone Species Helps Restore the Dysbiosis of Butyrate-Producing Bacteria in Nonalcoholic Fatty Liver Disease. **iMeta**, **2022**; e61. https://doi.org/10.1002/imt2.61
+1. Suqi Cao<sup>†</sup>, Zicheng Zhang<sup>†</sup>, Lei Liu, Yin Li, Wei Li, Yunling Li<sup>\*</sup> and D**Dingfeng Wu**<sup>\*</sup>. Causal relationships between atopic dermatitis and psychiatric disorders: a bidirectional two-sample Mendelian randomization study. **BMC psychiatry**; **2024**, 24(1), 16. https://doi.org/10.1186/s12888-023-05478-1.
 
-1.  Jing Zhong<sup>†</sup>, **Dingfeng Wu**<sup>†</sup>, Yuanyuan Zeng<sup>†</sup>, Gaosong Wu<sup>†</sup>, Ningning Zheng, Wenjin Huang, Yan Li, Xin Tao, Weize Zhu, Lili Sheng, Xiaoxu Shen, Weidong Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, and Houkai Li<sup>\*</sup>. The Microbial and Metabolic Signatures of Patients with Stable Coronary Artery Disease. **Microbiology spectrum**, **2022**; 10(6):e0246722. doi:10.1128/spectrum.02467-22
+1. Tingjun Xu<sup>†</sup>, Wenxing Gao<sup>†</sup>, Lixin Zhu<sup>\*</sup>, Wanning Chen, Chaoqun Niu, Wenjing Yin, Liangxiao Ma, Xinyue Zhu, Yunchao Ling, Sheng Gao, Lei Liu, Na Jiao, Weiming Chen, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, and **Dingfeng Wu**<sup>\*</sup>. NAFLDkb: A Knowledge Base and Platform for Drug Development against Nonalcoholic Fatty Liver Disease. **J. Chem. Inf. Model**. **2023**; https://pubs.acs.org/doi/10.1021/acs.jcim.3c00395.
+
+1. Wenjun Gu<sup>†</sup>, LuChengChen Shu, WanNing Chen, Jinhua Wang, **Dingfeng Wu**<sup>\*</sup>, ZiSheng Ai<sup>\*</sup>, and Jiyu Li<sup>\*</sup>. Evaluation of Chinese Healthcare Organizations Innovative Performance in the Digital Health Era. **Front. Public Health**. **2023**; https://www.frontiersin.org/articles/10.3389/fpubh.2023.1141757.
+
+1. Lei Liu<sup>†</sup>, Ruixin Zhu,and **Dingfeng Wu**<sup>\*</sup>. Misuse of reporter score in microbial enrichment analysis. **iMeta**. **2023**; e95.https://doi.org/10.1002/imt2.95.
+
+1. **Dingfeng Wu**<sup>†</sup>, Lei Liu<sup>†</sup>, Na Jiao<sup>†</sup>, Yida Zhang, Li Yang, Chuan Tian, Ping Lan, Lixin Zhu<sup>\*</sup>, Rohit Loomba<sup>\*</sup>, and Ruixin Zhu<sup>\*</sup>. Targeting Keystone Species Helps Restore the Dysbiosis of Butyrate-Producing Bacteria in Nonalcoholic Fatty Liver Disease. **iMeta**, **2022**; e61. https://doi.org/10.1002/imt2.61.
+
+1.  Jing Zhong<sup>†</sup>, **Dingfeng Wu**<sup>†</sup>, Yuanyuan Zeng<sup>†</sup>, Gaosong Wu<sup>†</sup>, Ningning Zheng, Wenjin Huang, Yan Li, Xin Tao, Weize Zhu, Lili Sheng, Xiaoxu Shen, Weidong Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, and Houkai Li<sup>\*</sup>. The Microbial and Metabolic Signatures of Patients with Stable Coronary Artery Disease. **Microbiology spectrum**, **2022**; 10(6):e0246722. doi:10.1128/spectrum.02467-22.
 
 1. Sijing Cheng<sup>†</sup>, **Dingfeng Wu**<sup>†</sup>, Jie Li, Yifeng Zou, Yunle Wan, Lihan Shen, Lixin Zhu<sup>\*</sup>, Mang Shi, Linlin Hou, Tao Xu, Na Jiao, Yichen Li, Yibo Huang, Zhipeng Tang, Mingwei Xu, Shusong Jiang, Maokun Li<sup>\*</sup>, Guangjun Yan<sup>\*</sup>, Ping Lan<sup>\*</sup>, and Ruixin Zhu<sup>\*</sup>. Risk factors for the critical illness in SARS-CoV-2 infection: a multicenter retrospective cohort study. **Respiratory Research**, **2020**; 21(1), 277. DOI: https://doi.org/10.1186/s12931-020-01492-zLu.
 
@@ -101,6 +109,8 @@ p {
 
 **Academic Conference**
 
+1. **Dingfeng Wu**. miMatch:一种微生物代谢背景匹配工具能够加强宏基因组研究中微生物与人类疾病之间的因果关系. **中国肠道大会(CHINAGUT)**, **2023**. Oral presentation. Beijing, China.
+
 1. **Dingfeng Wu**. Identification of the keystone species in non-alcoholic fatty liver disease by causal inference and dynamic intervention modeling. **Chinese Society for Microbiology Annual Conference**, **2020**. Oral presentation. Chengdu, China.
 
 1. **Dingfeng Wu**. Unbalanced dietary patterns contribute to the pathogenesis of precocious puberty by affecting gut microbiota and host metabolites.**Chinese Society for Microbiology Annual Conference**, **2020**. Poster. Chengdu, China.
@@ -116,6 +126,8 @@ p {
 1. **Dingfeng Wu**. Amplicon analysis and its application in disease. **Symposium on Flora Analysis**, **2019**. Oral presentation. Guangzhou, China.
 
 **Community Involvement**
+
+1. **iMeta** (IF>10). Youth editor (2023-)
 
 1. **Frontiers in Microbiology** (IF=6.06). Review editor (2019-)
 
