@@ -18,6 +18,9 @@ p {
 </div>
 
 ## 2024
+
+1. Lei Liu<sup>†</sup>, Liu Yang<sup>†</sup>, Suqi Cao, Zhigang Gao, Bin Yang, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup> and **Dingfeng Wu**<sup>\*</sup>. CyclicPepedia: a knowledge base of natural and synthetic cyclic peptides. **Briefings in bioinformatics**. **2024**; 25(3), bbae190. https://doi.org/10.1093/bib/bbae190. PMID: 38678388.
+
 1. Xiaoyi Li<sup>†</sup>, **Dingfeng Wu**<sup>†</sup>, Qiuyu Li, Jinglan Gu, Wenxing Gao, Xinyue Zhu, Wenjing Yin, Ruixin Zhu<sup>\*</sup>, Lixin Zhu<sup>\*</sup>, and Na Jiao<sup>\*</sup>. Host-microbiota interactions contributing to the heterogeneous tumor microenvironment in colorectal cancer. **Physiol Genomics**. **2024** Feb 1;56(2):221-234. doi: 10.1152/physiolgenomics.00103.2023. Epub 2023 Dec 11. PMID: 38073489.
 
 1. Suqi Cao<sup>†</sup>, Zicheng Zhang<sup>†</sup>, Lei Liu, Yin Li, Wei Li, Yunling Li<sup>\*</sup> and D**Dingfeng Wu**<sup>\*</sup>. Causal relationships between atopic dermatitis and psychiatric disorders: a bidirectional two-sample Mendelian randomization study. **BMC psychiatry**; **2024**, 24(1), 16. https://doi.org/10.1186/s12888-023-05478-1.
