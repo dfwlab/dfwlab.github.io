@@ -32,6 +32,8 @@ p {
 
 * **[PisNRs](https://github.com/dfwlab/pisnrs)** A Python module for potential inhibitor and scaffold prediction of nuclear receptors
 
+* **[cyclicpeptide](https://github.com/dfwlab/cyclicpeptide)** A python package for cyclic peptides drug design
+
 
 ### Artificial intelligence
 
