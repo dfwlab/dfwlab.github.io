@@ -10,22 +10,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.0.0' # 选择合适的 Ruby 版本
-          bundler-cache: true
+      - name: Build Docker image
+        run: docker build -t custom-jekyll-builder .
 
-      - name: Update RubyGems
-        run: gem update --system
-
-      - name: Install dependencies
-        run: bundle install
-
-      - name: Build the site in the jekyll/builder container
+      - name: Build the site in the custom Docker container
         run: |
-          export JEKYLL_VERSION=3.8
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+          custom-jekyll-builder /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
