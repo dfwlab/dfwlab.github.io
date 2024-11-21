@@ -3,7 +3,7 @@ layout: page
 title: Sheng Gao
 position: Collaborating Students
 image: /people/shenggao.png
-degree: B.S.(Graduated)
+degree: Ph.D.(Graduated)
 email: gaos@tongji.edu.cn
 webside: https://dfwlab.github.io/
 ---
