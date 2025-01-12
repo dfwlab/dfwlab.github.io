@@ -17,10 +17,17 @@ p {
     </div>
 </div>
 
+## 2025
+
+
+1. Liu Yang<sup>†</sup>, Suqi Cao<sup>†</sup>, Lei Liu, Ruixin Zhu<sup>\*</sup> and **Dingfeng Wu**<sup>\*</sup>. cyclicpeptide: a Python package for cyclic peptide drug design. **Briefings in bioinformatics**. **2024**;26(1), bbae714. https://doi.org/10.1093/bib/bbae714. PMID: 39783893.
+
+1. Genhui Zheng<sup>†</sup>, **Dingfeng Wu**<sup>†</sup>, Xiuxia Wei, Dongpo Xu, Tiantian Mao, Deyu Yan, Wenhao Han, Xiaoxiao Shang, Zikun Chen, Jingxuan Qiu, Kailin Tang, Zhiwei Cao<sup>\*</sup> and Tianyi Qiu<sup>\*</sup>.**Briefings in bioinformatics**. **2024**;26(1), bbae710. https://doi.org/10.1093/bib/bbae710.
+
 ## 2024
 
 
-1. Lei Liu<sup>†</sup>, Suqi Cao<sup>†</sup>, Weili Lin<sup>†</sup>, Zhigang Gao, Liu Yang, Lixin Zhu, Bin Yang, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup> and Dingfeng Wu<sup>\*</sup>. miMatch: a microbial metabolic background matching tool for mitigating host confounding in metagenomics research. **Gut Microbes**. **2024**; 16(1), 2434029. https://doi.org/10.1080/19490976.2024.2434029. PMID: 39601293.
+1. Lei Liu<sup>†</sup>, Suqi Cao<sup>†</sup>, Weili Lin<sup>†</sup>, Zhigang Gao, Liu Yang, Lixin Zhu, Bin Yang, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup> and **Dingfeng Wu**<sup>\*</sup>. miMatch: a microbial metabolic background matching tool for mitigating host confounding in metagenomics research. **Gut Microbes**. **2024**; 16(1), 2434029. https://doi.org/10.1080/19490976.2024.2434029. PMID: 39601293.
 
 1. Lei Liu<sup>†</sup>, Liu Yang<sup>†</sup>, Suqi Cao, Zhigang Gao, Bin Yang, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup> and **Dingfeng Wu**<sup>\*</sup>. CyclicPepedia: a knowledge base of natural and synthetic cyclic peptides. **Briefings in bioinformatics**. **2024**; 25(3), bbae190. https://doi.org/10.1093/bib/bbae190. PMID: 38678388.
 
