@@ -19,6 +19,7 @@ p {
 
 ## 2025
 
+1. Suqi Cao<sup>†</sup>, Lei Liu<sup>†</sup>, Liu Yang, Haomin Li, Ruixin Zhu, Gang Yu, Na Jiao<sup>\*</sup> and **Dingfeng Wu**<sup>\*</sup>. Assessing severe pneumonia risk in children via clinical prognostic model based on laboratory markers. **International Immunopharmacology** **2025**;151, 114317. https://doi.org/0.1016/j.intimp.2025.114317. PMID: 39983420.
 
 1. Liu Yang<sup>†</sup>, Suqi Cao<sup>†</sup>, Lei Liu, Ruixin Zhu<sup>\*</sup> and **Dingfeng Wu**<sup>\*</sup>. cyclicpeptide: a Python package for cyclic peptide drug design. **Briefings in bioinformatics**. **2024**;26(1), bbae714. https://doi.org/10.1093/bib/bbae714. PMID: 39783893.
 
