@@ -19,7 +19,7 @@ p {
 
 ## 2025
 
-1.Jingyu Zhu<sup>†</sup>, Suqi Cao, Tan Wang, Nannan Wang, Liu Yang, Xuanli Tang, Mengya Jiang, Qin Zhu, Hong Yu<sup>\*</sup>, **Dingfeng Wu**<sup>\*</sup>, Wan-Xin Peng<sup>\*</sup>. Guiqi Yishen granule alleviates obstructive nephropathy-induced renal fibrosis by targeting PI3K/AKT signaling pathway. **Journal of Ethnopharmacology**. **2026**;10, 354:120490. https://doi.org/10.1016/j.jep.2025.120490. PMID: 40865661.
+1. Jingyu Zhu<sup>†</sup>, Suqi Cao, Tan Wang, Nannan Wang, Liu Yang, Xuanli Tang, Mengya Jiang, Qin Zhu, Hong Yu<sup>\*</sup>, **Dingfeng Wu**<sup>\*</sup>, Wan-Xin Peng<sup>\*</sup>. Guiqi Yishen granule alleviates obstructive nephropathy-induced renal fibrosis by targeting PI3K/AKT signaling pathway. **Journal of Ethnopharmacology**. **2026**;10, 354:120490. https://doi.org/10.1016/j.jep.2025.120490. PMID: 40865661.
 
 1. Suqi Cao<sup>†</sup>, Lei Liu<sup>†</sup>, Liu Yang, Haomin Li, Ruixin Zhu, Gang Yu, Na Jiao<sup>\*</sup> and **Dingfeng Wu**<sup>\*</sup>. Assessing severe pneumonia risk in children via clinical prognostic model based on laboratory markers. **International Immunopharmacology** **2025**;151, 114317. https://doi.org/0.1016/j.intimp.2025.114317. PMID: 39983420.
 
